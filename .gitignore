@@ -1,0 +1,7 @@
+/.Python
+/bin
+/client_secrets.json
+/include
+/lib
+*.pyc
+/.idea
